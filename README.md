@@ -19,6 +19,7 @@ There should be an appropriate description of the college on the home page.
 ![admission](https://github.com/SmritiManikand/html-ABC-college/assets/113674204/faad9c30-11f8-4bde-9223-0e22a26475ae)
 
 ## gallery.html
+![gallery](https://github.com/SmritiManikand/html-ABC-college/assets/113674204/c90f1beb-ae4c-4002-96fc-0038f6c94e59)
 
 ## computer-science.html
 ![cs](https://github.com/SmritiManikand/html-ABC-college/assets/113674204/9af9d44d-12b5-410a-aaca-3d3a5b0501e4)
